@@ -52,8 +52,8 @@ ng serve
 http://localhost:4200/
 
 📸 Output Preview
-
 ![App Screenshot](./assets/Screenshot%202025-11-28%20112300.png)
+
 
 📦 Build for Production
 ng build
